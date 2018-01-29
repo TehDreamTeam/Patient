@@ -1,3 +1,6 @@
 dependencies {
     compile project(':core')
+
+    runtime group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.10.0'
+    compile group: 'commons-cli', name: 'commons-cli', version: '1.4'
 }
