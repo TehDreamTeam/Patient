@@ -1,0 +1,4 @@
+rootProject.name = 'Patient'
+
+include ':main'
+include ':core'
