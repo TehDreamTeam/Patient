@@ -6,7 +6,7 @@
 build/
 
 # IntelliJ Files #
-.idea/
+#.idea/
 *.iml
 
 # Log Files #
